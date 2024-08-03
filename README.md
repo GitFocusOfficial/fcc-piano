@@ -134,7 +134,7 @@ In the below example the padding is applied to the `.card` class when the viewpo
 
 > Example Code
 >
-```media
+>```media
 >@media (max-width: 960px) {
 >  .card {
 >    padding: 2rem;
