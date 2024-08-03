@@ -140,7 +140,7 @@ In the below example the padding is applied to the `.card` class when the viewpo
 >    padding: 2rem;
 >  }
 >}
-```
+>```
 
 Add a media query that will be applied when the viewport is `768px` wide and below.
 
