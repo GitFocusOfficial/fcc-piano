@@ -180,4 +180,4 @@ Add another `@media` rule to apply if the browser window is wider than `769px` b
 
 For the new `@media` rule, set the `width` of the `#piano` to `675px` and the `width` of the `.keys` to `633px`.
 
-With that, your piano is complete!
+>With that, your piano is complete!
